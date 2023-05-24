@@ -1,0 +1,11 @@
+{"id":1,"Name":"Mubashir","Age":23,"Gender":"Male","Address":"Model Town","Phone_no":"06754332","Curr_location":{"Latitude":1,"Longitude":3},"vehicle":{"Type":"Car","Model":"2020","License_plate":"6543"},"Rating":null,"Availability":true}
+{"id":2,"Name":"Waleed","Age":23,"Gender":"Male","Address":"thokar","Phone_no":"098765","Curr_location":{"Latitude":2,"Longitude":1},"vehicle":{"Type":"Bike","Model":"2021","License_plate":"4321"},"Rating":null,"Availability":true}
+{"id":3,"Name":"Hamza","Age":34,"Gender":"Male","Address":"chungi","Phone_no":"09876","Curr_location":{"Latitude":3,"Longitude":4},"vehicle":{"Type":"Rickshaw","Model":"2023","License_plate":"432"},"Rating":null,"Availability":true}
+{"id":4,"Name":"Sharjeel","Age":23,"Gender":"Male","Address":"asdfghj","Phone_no":"654321","Curr_location":{"Latitude":0,"Longitude":0},"vehicle":{"Type":"Car","Model":"2345","License_plate":"1234"},"Rating":null,"Availability":true}
+{"id":5,"Name":"wedfg","Age":1,"Gender":"Male","Address":"qwedfgh","Phone_no":"432","Curr_location":{"Latitude":0,"Longitude":0},"vehicle":{"Type":"CAr","Model":"432","License_plate":"432"},"Rating":null,"Availability":true}
+{"id":6,"Name":"jhgf","Age":34,"Gender":"Male","Address":"dfgh","Phone_no":"5432","Curr_location":{"Latitude":0,"Longitude":0},"vehicle":{"Type":"Cart","Model":"543","License_plate":"543"},"Rating":null,"Availability":true}
+
+
+
+
+
